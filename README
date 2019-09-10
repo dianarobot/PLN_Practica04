@@ -1,0 +1,21 @@
+# Práctica 4
+Este es el archivo README de la práctica 4.
+En este repositorio se encuentran los archivos requeridos para el algoritmo de Page Rank.
+
+*Análsiis de Frecuencias. Se tomaron las funciones necesarias del archivo AnalisisFrecuencias.py implementado en la práctica anterior, el archivo completo se encuentra en la práctica 3.
+
+*PageRank.
+
+### Prerequisitos
+Aquí van los paquetes que se necesitan para que esta cosa funcione.
+
+### Instalar
+Aquí van las instrucciones de instalación del proyecto, de modo que
+alguien más lo pueda ejecutar sin ayuda del desarrollador.
+
+### Ejecutar Ejercicio en Consola
+python pageRank.py
+
+
+## Autor
+* **Diana Rocha Botello** - *Práctica 2* - [Repositorio](https://github.com/dianarobot)

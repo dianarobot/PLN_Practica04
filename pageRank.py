@@ -66,6 +66,8 @@ class PageRank():
 			print("-------------------------------------------")
 
 if __name__ == "__main__":
+	n = int(input("Ingrese el número de iteraciones: "))
 	p = PageRank()
 	p.getTokenizeSentence()
-	p.doPageRank(5)
+	p.doPageRank(n)
+    
